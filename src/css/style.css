@@ -1,0 +1,36 @@
+
+#country {
+  background-color: #222831;
+  text-align: center;
+}
+
+.row img {
+  width: 100%;
+}
+
+.row div {
+  padding: 1rem;
+}
+
+.row {
+  background-color: #222831;
+  color: #fff;
+}
+
+.country-container {
+  opacity: 0;
+  transition: opacity 1s;
+}
+
+.hidden {
+  display: none;
+}
+.spinner-border {
+  opacity: 0;
+}
+
+.para {
+  color: #ff0404;
+  font-size: 1rem;
+  text-align: center;
+}

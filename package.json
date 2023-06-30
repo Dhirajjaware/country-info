@@ -1,0 +1,25 @@
+{
+  "name": "country-app",
+  "version": "1.0.0",
+  "description": "You can search over 250 country's around the world",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhirajjaware/search-country.git"
+  },
+  "author": "Dhiraj Javare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhirajjaware/search-country/issues"
+  },
+  "homepage": "https://github.com/Dhirajjaware/search-country#readme",
+  "devDependencies": {
+    "parcel": "^2.9.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
